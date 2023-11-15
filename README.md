@@ -1,2 +1,2 @@
-# slicers_configs
-Slicers profiles for B4CKSP4CE 3d-printers
+# 3d_works
+Slicers profiles and 3D projects for B4CKSP4CE 3d-printers
